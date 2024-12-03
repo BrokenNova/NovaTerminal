@@ -18,7 +18,9 @@ Welcome to the Nova Terminal GitHub project! This repository showcases a futuris
    ```bash
    git clone https://github.com/BrokenNova/NovaTerminal.git
    cd NovaTerminal
-2. Install dependencies: 
+2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Run the main script：
+4. Run the main script：
+   ```bash
    python src/main.py
